@@ -1,0 +1,25 @@
+{
+  "name": "vue-img-color-picker",
+  "version": "1.0.0",
+  "description": "Vue component to pick a color from a base64 image, by clicking on it.",
+  "main": "src/ImgColorPicker.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geccomedia/vue-img-color-picker.git"
+  },
+  "keywords": [
+    "vue",
+    "image",
+    "color",
+    "picker"
+  ],
+  "author": "Gecco Media GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geccomedia/vue-img-color-picker/issues"
+  },
+  "homepage": "https://github.com/geccomedia/vue-img-color-picker#readme"
+}
